@@ -6,9 +6,9 @@ Status|X|Verifica se tem o remédio em estoque ou não
 Tipo de Remédio|X|Pergunta se o remédio é generico ou não
 Receita|X|Pergunta se o remédio tem receita ou não
 Receita_cliente|X|Verifica se o cliente tem a receita
-Promoção(desconto)|X|Desconto na compra
 Cartão da farmácia|X|Pergunta se tem o cartão
 Oferecer cartão|X|Caso não, oferece
-Desconto no cartão|X|Aplicar desconto do cartão
+Metodo de Pagamento|X| Metodos de pagamentos
+Desconto sobre o metodo de pagamento|X|Aplica desconto de acordo com o metodo desejado
 Nota Fiscal|X|Imprime o valor da compra
 
